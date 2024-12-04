@@ -15,7 +15,7 @@
 
 ## Grid
 
-* [Documentation](grid/index.md)
+* [Grib Bundle documentation](grid/index.md)
   * [Custom bulk action](grid/custom_bulk_action.md)
   * [Installation](grid/installation.md)
   * [Field types](grid/field_types.md)
